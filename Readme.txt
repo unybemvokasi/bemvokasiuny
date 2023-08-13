@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Perkenalkan Website Resmi BEM KM Fakultas Vokasi UNY 2023
 
-Template Name: Vesperr
-Template URL: https://bootstrapmade.com/vesperr-free-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+All right reserved.
